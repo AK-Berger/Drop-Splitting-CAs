@@ -29,6 +29,7 @@ DOI: --
 
 - example.avi
     This video demonstrates an example of measurements we analyzed using the "Drop Splitting CAs.ipynb" notebook to illustrate its functionality.
+      find it here: https://drive.google.com/file/d/1UcsFBUvKf-milUfHYe2pJQwPUwdIK6Hb/view?usp=sharing
 
 
 ### The Frames folder
